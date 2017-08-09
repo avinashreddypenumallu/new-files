@@ -1,0 +1,6 @@
+c:\users\avinash\documents\visual studio 2017\Projects\given number is even or odd\given number is even or odd\obj\Debug\given number is even or odd.csprojResolveAssemblyReference.cache
+c:\users\avinash\documents\visual studio 2017\Projects\given number is even or odd\given number is even or odd\bin\Debug\given number is even or odd.exe.config
+c:\users\avinash\documents\visual studio 2017\Projects\given number is even or odd\given number is even or odd\bin\Debug\given number is even or odd.exe
+c:\users\avinash\documents\visual studio 2017\Projects\given number is even or odd\given number is even or odd\bin\Debug\given number is even or odd.pdb
+c:\users\avinash\documents\visual studio 2017\Projects\given number is even or odd\given number is even or odd\obj\Debug\given number is even or odd.exe
+c:\users\avinash\documents\visual studio 2017\Projects\given number is even or odd\given number is even or odd\obj\Debug\given number is even or odd.pdb
